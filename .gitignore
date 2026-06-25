@@ -42,3 +42,4 @@ Thumbs.db
 # Other
 *.log
 *.tmp
+.sdkmanrc
