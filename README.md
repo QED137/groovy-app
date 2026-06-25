@@ -30,6 +30,7 @@ To pass arguments:
 ```
 
 ## Run the tests
+It runs with Spock
 
 ```bash
 ./gradlew test
